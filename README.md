@@ -12,7 +12,7 @@ Construct a spam emails classifier using the naive Bayes from scratch
 8. Use k-fold cross-validation to fine-tune the parameters (number of max features, Laplace smoothing, etc.)
 
 ## Dependencies
-`sklearn`,`nltk`
+`sklearn`,`nltk`(`names`, `wordnet`)
 
 ## Authors
 [Haining Pan](https://github.com/hainingpan)
